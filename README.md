@@ -1,4 +1,8 @@
-## Hi there 👋
+A final year student of Bachelor of Computer Science (Software Engineering) in Universiti Malaya. Passionate in software engineering with basic and intermediate skills in several programming languages including java, python and C.
+
+Achieved dean's award for 4 semesters throughout the course. Completed AWS Academy Cloud Foundations and earned AWS Certified Cloud Practitioner Examination badge and certificate. Also earned Cisco CCNA: Introduction to Networks badge.
+
+Finished industrial training as a web application developer at Cyber Village Sdn Bhd.
 
 <!--
 **Amirul1411/Amirul1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
